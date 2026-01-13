@@ -1,0 +1,23 @@
+MUPC - Mostly Useless Programmable Calculator
+
+Instructions
+
+0000 00 00
+OPC  R1 R2
+
+00 | 0000 | MOV |
+01 | 0001 | ADD |
+02 | 0010 | SUB |
+03 | 0011 | AND |
+04 | 0100 | OR  |
+05 | 0101 | XOR |
+06 | 0110 | SHR |
+07 | 0111 | IDC |
+08 | 1000 | SJM |
+09 | 1001 | JE  |
+10 | 1010 | JG  |
+11 | 1011 | JL  |
+12 | 1100 | MST |
+13 | 1101 | IO  |
+14 | 1110 | MSC |
+15 | 1111 | IMM |
