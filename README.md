@@ -6,6 +6,7 @@ MUPC is a small 8-bit hobby CPU. This repository contains the hardware design fo
  - [danielde8/mupc](https://github.com/danielde8/mupc) - Logisim Evolution CPU schematic (this repository)
  - [danielde8/mupc-emu](https://github.com/danielde8/mupc-emu) - Emulator written in C
  - [danielde8/mupc-asm](https://github.com/danielde8/mupc-asm) - Prototype assembler written in Kotlin
+ - [danielde8/muas](https://github.com/danielde8/muas) - Assembler written in C++; a reimplementation of [mupc-asm](https://github.com/danielde8/mupc-asm)
  - [erikflorian/mupc-cc](https://github.com/erikflorian/mupc-cc) - C Compiler for MUPC; beware that this is mostly AI-generated and produces very inefficient binaries
 
 ## Instruction encoding
